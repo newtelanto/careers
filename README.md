@@ -7,7 +7,7 @@ If you like agile, dynamic environments in which you can develop yourself profes
 We are a dynamic start-up in the SaaS | EdTech arena, where we provide collaboration software and services to industry and university looking to source innovation, foster employer branding + learning & development as well as improving student employability and competency building
 
 ### The team
-![TELANTO](https://s3.eu-central-1.amazonaws.com/static.telanto.com/telanto.com/images/dev_team.jpeg)
+![TELANTO](https://s3.eu-central-1.amazonaws.com/static.telanto.com/telanto.com/images/dev_team.jpg)
 
 ### Work at Telanto
 
